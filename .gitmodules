@@ -1,0 +1,9 @@
+[submodule "external/kiiro_engine/external/glm"]
+	path = external/kiiro_engine/external/glm
+	url = https://github.com/g-truc/glm
+[submodule "external/kiiro_engine/external/glfw"]
+	path = external/kiiro_engine/external/glfw
+	url = https://github.com/glfw/glfw
+[submodule "external/kiiro_engine/external/imgui"]
+	path = external/kiiro_engine/external/imgui
+	url = https://github.com/ocornut/imgui
